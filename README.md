@@ -1,12 +1,12 @@
 <h1 align = "center">
-    <img src = "github / readme-logo.svg" alt = "Logo Proffy" width = "50%" />
+    <img src = "/github/readme-logo.svg" alt = "Logo Proffy" width = "50%" />
 </h1>
 
 <h5 align = "center">
   <b> Sua plataforma para estudar online. </b> 👨‍🏫
 </h5>
 
-<img src = "github / demo-proffy.gif" alt = "Gif Proffy" width = "100%" />
+<img src = "/github/demo-proffy.gif" alt = "Gif Proffy" width = "100%" />
 
 ## 📌 Sobre o projeto
 
